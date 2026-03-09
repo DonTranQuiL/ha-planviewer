@@ -1,6 +1,14 @@
 # Home Assistant Planviewer Integration
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)][hacs]
+[![Project Maintenance][maintenance_badge]](https://github.com/Malosaaa/ha-p2000)
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
+<br>
+<br>
+!!!!PLEASE USE THE NEW INTEGRATION https://github.com/malosaaa/Bekendmakingen 
+AS PLANVIEWER ARE LITTLE SHITS BLOCKING 30M url calls, after seeing this repo.!!!!
+
+<br>
+<br>
 
 This is a custom component for Home Assistant to scrape public announcements (like building permits) from the [Planviewer website](https://www.planviewer.nl/) for a specific Dutch municipality and expose them as sensor entities.
 
@@ -79,3 +87,6 @@ If you wish to contribute or make changes, you can fork the repository and submi
 * Inspired by other scraping-based Home Assistant integrations.
 
 ---
+[hacs]: https://hacs.xyz
+[hacs_badge]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge
+[maintenance_badge]: https://img.shields.io/badge/Maintained%3F-no-red.svg?style=for-the-badge
