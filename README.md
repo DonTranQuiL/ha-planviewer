@@ -1,5 +1,6 @@
 # Home Assistant Planviewer Integration
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)][hacs]
+[![Discord](https://img.shields.io/badge/Discord-join%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qaHPTTKHae)
 [![Project Maintenance][maintenance_badge]](https://github.com/Malosaaa/ha-p2000)
 
 <br>
