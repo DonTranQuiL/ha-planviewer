@@ -82,6 +82,12 @@ Diagnostic sensors provide information about the integration's operation. These 
 
 If you wish to contribute or make changes, you can fork the repository and submit pull requests. Ensure you follow Home Assistant's custom component development practices.
 
+## Support
+
+Everything here is free and open source. If it saves you time, you can support the work:
+
+<a href="https://ko-fi.com/DonTranQuiL"><img alt="Support me on Ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg" height="30"></a> <a href="https://liberapay.com/Malosaaa/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 ## Acknowledgements
 
 * Based on the Planviewer website structure.
