@@ -1,6 +1,7 @@
 {
   "domain": "planviewer",
   "name": "Planviewer",
+  "categories": ["local_services"],
   "config_flow": true,
   "documentation": "https://github.com/Malosaaa/ha-planviewer",
   "issue_tracker": "https://github.com/Malosaaa/ha-planviewer/issues",
