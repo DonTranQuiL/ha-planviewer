@@ -25,7 +25,16 @@ This is a custom component for Home Assistant to scrape public announcements (li
 
 ## Installation
 
-### Via HACS (Recommended)
+### Marketplace (Home Assistant 2026.11 and newer, recommended)
+
+[![Open your Home Assistant instance and open this repository in the Marketplace.](https://my.home-assistant.io/badges/marketplace_repository.svg)](https://my.home-assistant.io/redirect/marketplace_repository/?owner=DonTranQuiL&repository=ha-planviewer&category=integration)
+
+1. In Home Assistant, go to **Settings > Marketplace** and search for **Planviewer** (or use the button above).
+2. Open it and select **Install**. The setup starts right away, no restart needed.
+
+> **Not in the Marketplace catalog yet?** Planviewer is not in the HACS default list yet, so it does not show up in the Marketplace search. Until it is, select **Add from link** in the upper-right corner of the Marketplace, enter `https://github.com/DonTranQuiL/ha-planviewer`, select **Add**, then open Planviewer and select **Install**.
+
+### Via HACS (Home Assistant before 2026.11)
 
 1.  Ensure you have [HACS](https://hacs.xyz/) installed and configured in your Home Assistant.
 2.  In Home Assistant, go to **HACS** -> **Integrations**.
@@ -33,6 +42,8 @@ This is a custom component for Home Assistant to scrape public announcements (li
 4.  Search for "Planviewer" (or the name you give your repository).
 5.  Click on the repository and then click **'Download'**.
 6.  Restart your Home Assistant instance.
+
+Planviewer is not in the HACS default list yet. If it does not show up in the search, click the three dots (⋮) in the top right of HACS → **Custom repositories**, paste `https://github.com/DonTranQuiL/ha-planviewer` with category **Integration**, click **Add**, then continue with step 5.
 
 ### Manual Installation
 
