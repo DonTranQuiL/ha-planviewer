@@ -1,15 +1,20 @@
 {
   "domain": "planviewer",
   "name": "Planviewer",
+  "categories": [
+    "local_services"
+  ],
+  "codeowners": [
+    "@Malosaaa"
+  ],
   "config_flow": true,
   "documentation": "https://github.com/Malosaaa/ha-planviewer",
+  "iot_class": "web_scraping",
   "issue_tracker": "https://github.com/Malosaaa/ha-planviewer/issues",
-  "codeowners": ["@Malosaaa"],
   "requirements": [
     "aiohttp",
     "beautifulsoup4==4.12.3",
     "lxml==5.3.2"
   ],
-  "iot_class": "web_scraping",
   "version": "1.0.0"
 }
